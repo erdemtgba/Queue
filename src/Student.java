@@ -1,4 +1,4 @@
-package hoca;
+
 class Student implements Comparable<Student>
 { 
     private String name; 

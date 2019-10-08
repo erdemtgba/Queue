@@ -1,4 +1,3 @@
-package hoca;
 
 public interface IQueue 
 {

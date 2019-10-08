@@ -1,4 +1,4 @@
-package hoca;
+
 public class BoundedQueue implements IQueue 
 {
 

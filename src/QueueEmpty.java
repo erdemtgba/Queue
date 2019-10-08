@@ -1,4 +1,4 @@
-package hoca;
+
 
 public class QueueEmpty extends Exception 
 {
